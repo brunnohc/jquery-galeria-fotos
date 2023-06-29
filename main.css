@@ -55,6 +55,8 @@ ul {
 }
 
 ul li {
+    display: flex;
+    justify-items: center;
     max-width: 25%;
     list-style: none;
     position: relative;
